@@ -1,0 +1,16 @@
+.odd{
+    background-color: #ffb6c1;
+    font-family: Verdana ,"DejaVu Sans" ,sans-serif;
+}
+#secondEle{
+    color: #0000ff;
+    font-size: 36px;
+}
+.extras{
+    font-size: 24px;
+}
+#forthEle{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
